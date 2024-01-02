@@ -64,7 +64,3 @@ This script is provided under the [MIT License](LICENSE).
 ## Issues and Contributions
 
 Feel free to open issues or contribute to the development of this script. Pull requests are welcome!
-
-```
-
-Please replace `<Your_OTX_API_Key>`, `<Your_MISP_API_Key>`, and `<Your_MISP_URL>` with your actual API keys and MISP URL. Also, don't forget to include any other necessary information or customization instructions specific to your script.
