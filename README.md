@@ -11,7 +11,7 @@ Make sure you have the following prerequisites installed:
   - OTXv2
   - pymisp
   - python-dotenv
-  - urllib3
+  - urllib3: Just to ignore some SSL errors, can be removed.
 
 ## Configuration
 
