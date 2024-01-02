@@ -88,7 +88,7 @@ def add_otx_iocs_to_misp(misp, pulse, misp_event):
             'comment': indicator.get('description', ''),
             'to_ids': True  # Modify as needed
         }
-        #print(misp_attribute)
+        
         # Add the attribute to the MISP event
         misp_event.add_attribute(**misp_attribute)
 
