@@ -57,10 +57,6 @@ Replace `otx_collector.py` with the actual name of your script.
 
 - Adjust the MISP attribute type, value, and other parameters in the `add_otx_iocs_to_misp` function based on your requirements.
 
-## License
-
-This script is provided under the [MIT License](LICENSE).
-
 ## Issues and Contributions
 
 Feel free to open issues or contribute to the development of this script. Pull requests are welcome!
